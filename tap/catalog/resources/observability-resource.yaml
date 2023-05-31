@@ -4,7 +4,7 @@ metadata:
   name: observability
   description: VMware Aria Operations for Applications tenant to provide monitoring and distributed tracing capabilities
   annotations:
-    'backstage.io/techdocs-ref': dir:../
+#    'backstage.io/techdocs-ref': dir:../
 spec:
   type: observability
   owner: team-vmware-tanzu-se
