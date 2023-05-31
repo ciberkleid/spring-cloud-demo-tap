@@ -4,7 +4,7 @@ metadata:
   name: sc-architecture-location
   description: Spring Cloud Architecture on TAP
   annotations:
-#    'backstage.io/techdocs-ref': dir:.
+    'backstage.io/techdocs-ref': dir:.
 spec:
   targets:
     - ./systems/sc-architecture-system.yaml
